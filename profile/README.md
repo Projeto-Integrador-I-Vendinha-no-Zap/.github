@@ -4,7 +4,8 @@
 > Nossa equipe: Jhefferson Souza, Pabo Barbosa, Luis Gustavo, Douglas Patrício
 
 ## 📖 Sobre o Projeto
-> Lorem impsum dolor
+Veja o nosso ["PRD"](https://docs.google.com/document/d/1Dno3Trx4IFAvS8UIHJQBDrOHwjScQtH6H3WX3UjbCsM)
+
 ## 📂 Repositórios
 
 > Os repositórios do projeto serão listados aqui conforme forem criados.
